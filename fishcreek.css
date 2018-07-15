@@ -35,6 +35,12 @@ nav a:visited {color: #6699FF;}
 
 nav a:hover {color: #CCCCCC;}
 
+table {border-color: darkblue; border: 2px solid; border-collapse: collapse;}
+
+td {padding: 0.5em; border-color: darkblue; border: 1px solid;}
+
+th {padding: 0.5em; border-color: darkblue; border: 1px solid;}
+
 #mobile {display: none;}
 
 #desktop {display: inline;}
